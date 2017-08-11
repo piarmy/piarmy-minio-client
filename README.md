@@ -4,6 +4,8 @@
 
 ## Notes
 
+This is a testing container to figure out the best way to build and use an ARM/Alpine container with a minio client that can connect to and work with distributed minio services in Docker Swarm.
+
 #### Ref:
 
 https://docs.minio.io/docs/minio-client-complete-guide
